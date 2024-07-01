@@ -1,0 +1,26 @@
+Tran Van Huan,1,19,4,2005,nam,Hue,huan@gmail.com,23CNTT2,CNTT,10,10,10
+Tran Van Hung,2,20,11,2002,nam,Hue,hungtran@gmail.com,23CNTT1,CNTT,9.5,8,10
+Nguyen Hoang Hung,3,4,1,2005,nam,Hue,hungnguyen@gmail.com,23CNTT2,CNTT,3,5,10
+Pham Phu Khanh,4,18,4,2005,nam,Hue,khanhpham@gmail.com,23CNTT1,CNTT,9.5,10,9
+Phan Thanh Nhat,5,4,4,2004,nam,Hue,nhatphan@gmail.com,23CNTT2,CNTT,7,8,9
+Le Thi To Uyen,6,13,2,2005,nu,Hue,uyenle@gmail.com,23CDT1,CDT,9,8.5,7
+Nguyen Thi My Sa,7,1,1,2003,Nu,Hue,mysanguyen@gmail.com,23CDT1,CDT,10,10,5
+Le Thi Thuy Trang,8,3,4,2004,Nu,Hue,trangle@gmail.com,22CDT1,CDT,3,4,5
+Le Tran Thao Vi,9,1,2,2001,nu,Hue,vithao@gmail.com,23CDT2,CDT,3,4,6
+Nguyen Thi Bao Tram,10,7,3,2005,nu,Hue,tramnguyen@gmail.com,23CDT1,CDT,8.5,7,10
+Nguyen Vo Minh Tam,11,3,5,2004,nam,Hue,tamnguyen@gmail.com,22CDT2,CDT,8.25,3,5,6
+Nguyen Thi Lan,12,21,8,2005,nu,Ha Noi,lan.nguyen@example.com,23TDH1,TDH,9.25,8,7.5
+Le Van Duc,13,25,3,2004,nam,Ho Chi Minh,duc.le@example.com,22TDH1,TDH,7,9.3,8
+Tran Thi Ngoc Anh,14,20,12,2002,nu,Da Nang,anh.tran@example.com,20TDH1,TDH,8,9,9
+Pham Van Tu,15,22,5,2000,nam,Hai Phong,tu.pham@example.com,23TDH2,TDH,8,7,9
+Hoang Thi Mai,16,23,9,2005,nu,Nghe An,mai.hoang@example.com,23TDH1,TDH,9,8,8
+Ngo Minh Tuan,17,24,6,2004,nam,Binh Duong,tuan.ngo@example.com,23DTVT1,DTVT,7,8,7
+Vu Thi Thu Ha,18,19,11,2003,nu,Hai Duong,ha.vu@example.com,21DTVT1,DTVT,8,9,8
+Dang Van Nam,19,26,10,2005,nam,Hung Yen,nam.dang@example.com,23DTVT1,DTVT,7,8,7
+Ly Thi Bich Ngoc,20,21,7,2005,nu,Vinh Phuc,ngoc.ly@example.com,23DTVT2,DTVT,8,9,9
+Nguyen Van A,21,5,9,1998,nam,Ho Chi Minh,van.a@example.com,08CDT1,CNTT,8,9,7
+Tran Thi B,22,12,11,2000,nu,Ha Noi,thi.b@example.com,08TDH1,TDH,7,8,9
+Le Van C,23,8,3,1999,nam,Da Nang,van.c@example.com,08CDT1,CDT,9,8,7
+Pham Thi D,24,3,7,2001,nu,Hai Phong,thi.d@example.com,08TDH1,TDH,8,7,8
+Hoang Van E,25,6,5,1997,nam,Hue,van.e@example.com,08CNTT1,CNTT,7,9,8
+Tran Van Huan,26,19,4,2005,nam,Hue,huan@gmail.com,23CNTT2,CNTT,10,9,10

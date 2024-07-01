@@ -1,0 +1,27 @@
+Tran Van Thai,1,19,4,2005,Nam,Hue,huan@gmail.com,23CNTT2,CNTT,10.00,10.00,10.00
+Tran Van Hung,2,20,11,2002,Nam,Hue,hungtran@gmail.com,23CNTT1,CNTT,9.50,8.00,10.00
+Nguyen Hoang Hung,3,4,1,2005,Nam,Hue,hungnguyen@gmail.com,23CNTT2,CNTT,3.00,5.00,10.00
+Pham Phu Khanh,4,18,4,2005,Nam,Hue,khanhpham@gmail.com,23CNTT1,CNTT,9.50,10.00,9.00
+Phan Thanh Nhat,5,4,4,2004,Nam,Hue,nhatphan@gmail.com,23CNTT2,CNTT,7.00,8.00,9.00
+Le Thi To Uyen,6,13,2,2005,Nu,Hue,uyenle@gmail.com,23CDT1,CDT,9.00,8.50,7.00
+Nguyen Thi My Sa,7,1,1,2003,Nu,Hue,mysanguyen@gmail.com,23CDT1,CDT,10.00,10.00,5.00
+Le Thi Thuy Trang,8,3,4,2004,Nu,Hue,trangle@gmail.com,22CDT1,CDT,3.00,4.00,5.00
+Le Tran Thao Vi,9,1,2,2001,Nu,Hue,vithao@gmail.com,23CDT2,CDT,3.00,4.00,6.00
+Nguyen Thi Bao Tram,10,7,3,2005,Nu,Hue,tramnguyen@gmail.com,23CDT1,CDT,8.50,7.00,10.00
+Nguyen Vo Minh Tam,11,3,5,2004,Nam,Hue,tamnguyen@gmail.com,22CDT2,CDT,8.25,3.00,5.00
+Nguyen Thi Lan,12,21,8,2005,Nu,Ha Noi,lan.nguyen@example.com,23TDH1,TDH,9.25,8.00,7.50
+Le Van Duc,13,25,3,2004,Nam,Ho Chi Minh,duc.le@example.com,22TDH1,TDH,7.00,9.30,8.00
+Tran Thi Ngoc Anh,14,20,12,2002,Nu,Da Nang,anh.tran@example.com,20TDH1,TDH,8.00,9.00,9.00
+Pham Van Tu,15,22,5,2000,Nam,Hai Phong,tu.pham@example.com,23TDH2,TDH,8.00,7.00,9.00
+Hoang Thi Mai,16,23,9,2005,Nu,Nghe An,mai.hoang@example.com,23TDH1,TDH,9.00,8.00,8.00
+Ngo Minh Tuan,17,24,6,2004,Nam,Binh Duong,tuan.ngo@example.com,23DTVT1,DTVT,7.00,8.00,7.00
+Vu Thi Thu Ha,18,19,11,2003,Nu,Hai Duong,ha.vu@example.com,21DTVT1,DTVT,8.00,9.00,8.00
+Dang Van Nam,19,26,10,2005,Nam,Hung Yen,nam.dang@example.com,23DTVT1,DTVT,7.00,8.00,7.00
+Ly Thi Bich Ngoc,20,21,7,2005,Nu,Vinh Phuc,ngoc.ly@example.com,23DTVT2,DTVT,8.00,9.00,9.00
+Nguyen Van A,21,5,9,1998,Nam,Ho Chi Minh,van.a@example.com,08CDT1,CNTT,8.00,9.00,7.00
+Tran Thi B,22,12,11,2000,Nu,Ha Noi,thi.b@example.com,08TDH1,TDH,7.00,8.00,9.00
+Le Van C,23,8,3,1999,Nam,Da Nang,van.c@example.com,08CDT1,CDT,9.00,8.00,7.00
+Pham Thi D,24,3,7,2001,Nu,Hai Phong,thi.d@example.com,08TDH1,TDH,8.00,7.00,8.00
+Hoang Van E,25,6,5,1997,Nam,Hue,van.e@example.com,08CNTT1,CNTT,7.00,9.00,8.00
+Tran Van Huan,26,19,4,2005,Nam,Hue,huan@gmail.com,23CNTT2,CNTT,10.00,9.00,10.00
+Tran Van Thai,27,19,4,2005,Nam,Hue,huan@gmail.com,20TDH2,CNTT,10.00,9.00,10.00
